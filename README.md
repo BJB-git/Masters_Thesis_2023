@@ -12,7 +12,7 @@ deceased.
 
 # Description of Data used for Analysis
 
-Data used for analysis is publicly available via the Our World in Data team (https://ourworldindata.org/coronavirus). This data set contains reported COVID-19 cases and outcomes (such as deaths, hospitalizations and ICU admissions) for individual countries since the start of the pandemic. The countries analysed below were chosen to include a range of country locations and demographics. Data availability also differs by country, resulting in some countries not being included for certain types of analysis. For example, South Korea reports daily ICU admission counts but not daily hospitalization counts, causing it to be excluded from the hospitalization analysis in sections 3.3 and 3.4. 
+Data used for analysis is publicly available via the Our World in Data team (https://ourworldindata.org/coronavirus). This data set contains reported COVID-19 cases and outcomes (such as deaths, hospitalizations and ICU admissions) for individual countries since the start of the pandemic. The countries analysed below were chosen to include a range of country locations and demographics. Data availability also differs by country, resulting in some countries not being included for certain types of analysis. For example, South Korea reports daily ICU admission counts but not daily hospitalization counts. 
 
 # Folders
 
