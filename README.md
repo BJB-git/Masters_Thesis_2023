@@ -18,4 +18,6 @@ Data used for analysis is publicly available via the Our World in Data team (htt
 
 The folder "Thesis" contains a final PDF and LaTeX source code for the thesis document.
 
+The folder "Data" contains the data file used in the R script. This data is downloaded from the OWID COVID-19 data project as of December 31, 2023. 
+
 The folder "Data Analysis Code" contains the R code used for data analysis in Section 3. 
